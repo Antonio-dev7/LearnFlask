@@ -1,0 +1,10 @@
+/*
+To solve this, let's create a new CSS file.
+Within the CSS directory, right-click to create a new file, and call it 'style.css'.
+Inside of this new CSS file, I want to target all <img> tags that are children of the col-md-5
+class.
+*/
+
+.col-md-5 img {
+    width: 100%;
+}
